@@ -8,7 +8,7 @@
 "token":"這裏填寫阿里云盤的32位token，也可以不填寫，在播放阿里云盤内容時會彈出窗口，點擊QrCode，用阿里云盤app掃碼",
 "open_token":"這裏填寫通過alist申請的280位aliyun openapi token，也可以不寫，會自動隱藏轉存原畫",
 "thread_limit":32, //這裏是阿里云盤的GO代理的并發協程數或java代理的并發綫程數，若遇到賬號被限制并發數，請將此數值改爲10
-"is_vip":false, //是否是阿里云盤的VIP用戶，設置為true后，可以降低上方thread_limit的數量, 會提高多綫程加載效率。 注意! 非阿里雲盤VIP强行設置為true會有反效果.  注意2:因目前阿里云盤非VIP用戶轉存后的多綫播放效率已經不如GO極速播放，因此若此項設爲false會自動隱去"轉存原畫"
+"is_vip":true, //是否是阿里云盤的VIP用戶，設置為true后，可以降低上方thread_limit的數量, 會提高多綫程加載效率。 注意! 非阿里雲盤VIP强行設置為true會有反效果.  注意2:因目前阿里云盤非VIP用戶轉存后的多綫播放效率已經不如GO極速播放，因此若此項設爲false會自動隱去"轉存原畫"
 "quark_thread_limit":32, //這裏是夸克網盤GO代理的并發協程數或java代理的并發綫程數，若遇到賬號被限制並發數，請將此數值改爲10
 "quark_is_vip":false, //是否是夸克網盤的VIP用戶，設置為true后，可以降低上方quark_thread_limit的數量, 會提高多綫程加載效率。注意！非夸克網盤VIP强行設置為true會有反效果.
 "vod_flags":"4k|4kz|auto", //這裏是播放阿里雲的畫質選項，4k代表不轉存原畫（GO原畫），4kz代表轉存原畫,其他都代表預覽畫質,可選的預覽畫質包括qhd,fhd,hd,sd,ld，
