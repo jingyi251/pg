@@ -1,0 +1,16 @@
+{
+"token":"",
+"open_token":"",
+"thread_limit":8,
+"is_vip":false,
+"quark_thread_limit":10,
+"quark_is_vip":true,
+"vod_flags":"4k|4kz|auto",
+"quark_flags":"4kz|auto",
+"aliproxy":"",
+"proxy":"",
+"open_api_url":"https://api.xhofe.top/alist/ali_open/",
+"danmu":true,
+"quark_danmu":true,
+"quark_cookie":"_UP_A4A_11_=wb90812bf7b64c13a533f87775d0a81a; _UP_D_=pc; _UP_F7E_8D_=0z44HdIBxZaOBK7iKAtTXUsVZGcUL1MYFAm3qZen7C%2FkAoAaG2tHe8kt%2BPgMcImMFIth1VNDxghLHpvA%2Fhicy1HUTu2LBlCPom4qTWeMFqCgN55FQx3lIyu%2B1OsWIKjG1w4pOGWcZjvuo4m2jHof9eRj66wpeTPO4r7NBD%2F4wEE0IpjIBHWretgcndtvmRjO3Uj6OX14Aod90EIAgkvJB7zk4nczcPLP1rSgCMVm5ws2Z%2BPyTAVLm1sSAnmtB5UI%2F%2B5bvl8%2BMl4eSEwpMs9xdx5r0rfqdjesuDyEFxHGL%2BIVOMEdD6uzZJXMxBnUatpyAHLu79tlMNqP8TGNMQXXgvSqK5ufzR58ZeivnehV0qE%2FWt1yDEDt%2BfWrmT4mVs6zZWXvqpzmoV3MeygIUCEakjmqUpi%2BMoCaK%2BK%2BYrCYUbg6F8u7yQFbh%2F0Q7RCSfK2U6tAXQttwc%2FtDK7HYGyvolg%3D%3D; _UP_30C_6A_=st9086201f7mhk8k5kzaugct61ci4xg5; _UP_TS_=sg14f6b3695bdd53399bffe5efe3d11b799; _UP_E37_B7_=sg14f6b3695bdd53399bffe5efe3d11b799; _UP_TG_=st9086201f7mhk8k5kzaugct61ci4xg5; _UP_335_2B_=1; __pus=3c0fde1e4961f68d4559fad98e8abbb4AASiHFs4bUe9bylFW4DLsA8mKDvt1HaQhGFlTelnQKW6gNGLoiN2dH0XuDN/Fkz11T9usNH3zlp/HxBwR939PTqy; __kp=07be1980-90c5-11ee-a7b9-7194755a2cc4; __kps=AAScaYSujzm4K4CKb/Jc/WDm; __ktd=skj0kYUt+Au+VRkIyzCzxw==; __uid=AAScaYSujzm4K4CKb/Jc/WDm; __puus=da195822336c4bb285404ac268029cf4AARtBxph5TVTldCtTxjmwnXxnXP8KL1bOBk45YGYgFwMC4LnqdNEGcw7QZUEiSXniGxrhVgUJP4MifuNcKb1l4e4f9jeIjBXjBEnAW+S8EEOgdyUeQOvqkSosY07R1kSVpofqOk9F1OxsSLegEQ0Ssh2VVRa1HAqfxSljYAUp2DfaHhjm4vd8PAIZxcit/PLEUiXPaVPx5bo5fIqaDLny+H0"
+}
