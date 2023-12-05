@@ -1,7 +1,7 @@
 {
 "token":"",
 "open_token":"",
-"thread_limit":8,
+"thread_limit":10,
 "is_vip":true,
 "quark_thread_limit":10,
 "quark_is_vip":true,
