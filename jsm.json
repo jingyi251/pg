@@ -1,4 +1,3 @@
-{
 	"spider":"./pg.jar",
 	"sites":[
 		{
@@ -473,6 +472,7 @@
 			"changeable": 0
 		},
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
+		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
 		{
 			"key": "應用商店",
 			"name": "應用商店",
