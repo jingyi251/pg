@@ -10,7 +10,7 @@
 			"changeable": 0
 		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
+		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
@@ -18,10 +18,6 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
 			"ext":"./lib/tokenm.json"
 		},
 		{
@@ -102,6 +98,7 @@
 		{"key":"QuarkPanso","name":"夸克盘搜|夸克","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"},
 		{"key":"DaPanSo","name":"大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://dapanso.com$$$null"},
+		{"key":"PikaSo","name":"皮卡搜|网盘","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null"},
 		{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt"},
 		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
