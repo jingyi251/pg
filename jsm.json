@@ -89,7 +89,7 @@
 				"cookie":""
 			}
 		},
-		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
+		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://www.wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"},
 		{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
