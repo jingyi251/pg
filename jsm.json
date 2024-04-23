@@ -2,27 +2,7 @@
 	"spider":"./pg.jar",
 	"sites":[
 
-{
-"key": "csp_appys_影探",
-"name": "📛XY┃影探2K",
-"type": 3,
-"api": "csp_AppYsV2",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "http://ytcms.lfytyl.com/api.php/app/",
-"jar": "https://pan.shangui.cc/f/y76EsK/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%948.jar"
-},
-{
-"key":"csp_appysv2_阿里影视",
-"name":"📛XY┃阿里萝卜",
-"type":3,
-"api":"csp_AppYsV2",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"http://aliys.cn:90/api.php/v1.vod"
-},
+
 
 
 
