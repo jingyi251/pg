@@ -106,6 +106,19 @@
 			"ext": "./lib/feimaolive.json"
 		},
 		{
+      "key": "py_liushoushaofu",
+      "name": "🤪 T4_Py",
+      "type": 4,
+      "api": "https://py.doube.eu.org/api?site=liushoushaofu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+   },
+		{
 			"key": "FirstAid",
 			"name": "🚑 急救知识 ",
 			"type": 3,
